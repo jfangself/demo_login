@@ -27,7 +27,7 @@ public class testLogin {
 	  loginbtn.click();
 	  
 	  WebElement uname = driver.findElement(By.id("TANGRAM__PSP_8__userName"));
-	  uname.sendKeys("18668049021");
+	  uname.sendKeys("18668049028");
 	  
 	  WebElement pwd = driver.findElement(By.id("TANGRAM__PSP_8__password"));
 	  pwd.sendKeys("325810");
